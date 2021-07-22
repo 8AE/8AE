@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @8AE
 - 👀 I’m interested in Embedded Software Development
 - 🌱 I’m currently learning how to create a gameboy emulator
-- 💞️ I’m looking to collaborate on nothing really
-- 📫 How to reach me,
 
 <!---
 8AE/8AE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
